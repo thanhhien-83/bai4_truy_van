@@ -18,6 +18,7 @@ Gợi ý:
   sử dung tms => dữ liệu thô => tiền xử lý => dữ liệu như ý (3nf)  
   tạo các bảng với struct phù hợp  
   insert nhiều rows từ excel vào cửa sổ edit dữ liệu 1 table (quan sát thì sẽ làm đc)      
+  
 Tạo bảng GV với 2 trường là MaGV và Tên GV. Khoá chính là MaGV.  
 ![Screenshot 2025-04-15 071245](https://github.com/user-attachments/assets/962227ee-b947-4538-86dd-e8d7480781a5)  
 
